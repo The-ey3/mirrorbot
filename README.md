@@ -5,7 +5,7 @@
 
 # MirrorBot
 
-**Slam Mirror Bot** is a _multipurpose_ Telegram Bot written in Python for mirroring files on the Internet to our beloved Google Drive. Based on [python-aria-mirror-bot](https://github.com/lzzy12/python-aria-mirror-bot) and Repo from [Slam Mirror Bot](https://github.com/breakdowns/slam-mirrorbot)
+**Mirror Bot** is a _multipurpose_ Telegram Bot written in Python for mirroring files on the Internet to our beloved Google Drive. Based on [python-aria-mirror-bot](https://github.com/lzzy12/python-aria-mirror-bot) and Repo from [Slam Mirror Bot](https://github.com/breakdowns/slam-mirrorbot)
 
 # Features:
 <details>
