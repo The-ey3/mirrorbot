@@ -1,0 +1,5 @@
+Add ur Accounts which can be done in GCP(Google cloud platfrom), Maximum 100 files u can upload in Github repository.
+
+u need to make sure of that files, while adding files for mirrorbot files should be in JSON extention format.
+
+u can do correct form emails for ur refrence by go to CMD.exe to this root folder, where the all credentials (where the all emails are called credentials as in mirrorbot).
