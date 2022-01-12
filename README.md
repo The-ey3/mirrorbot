@@ -11,7 +11,7 @@
 <details>
     <summary><b>Click Here For More Details</b></summary>
 
-## By Blackpearl
+## By Black-3ye
 - qBittorrent
 - Leech supported
 - Thumbnail supported
